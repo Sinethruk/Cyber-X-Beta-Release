@@ -50,8 +50,8 @@ global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displa
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "👀" //ur menu react emoji
-global.themeemoji = "📱" //ur theme emoji
+global.reactmoji = "😈" //ur menu react emoji
+global.themeemoji = "💔" //ur theme emoji
 global.packname = "Rukshan MD" //ur sticker watermark packname
 global.author = "Rukshan MD" //ur sticker watermark author
 global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
@@ -93,16 +93,16 @@ global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✅ _Done_',
-    admin: '✉️☹️ _This Feature Is Only For Admin!_',
+    success: '✉️✏️ _Done_',
+    admin: '✉️✏️ _This Feature Is Only For Admin!_',
     botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️☹️ _This Feature Is Only For Owner!_',
-    group: '✉️⚠️ _Feature Used Only For Groups!_',
-    private: '✉️⚠️ _Features Used Only For Private Chat!_',
-    bot: '✉️⚠️ _This Feature Is Only For Bot_',
-    wait: '✉️🔄 _Processing Please Wait..._',
+    owner: '✉️✏️ _This Feature Is Only For Owner!_',
+    group: '✉️✏️ _Feature Used Only For Groups!_',
+    private: '✉️✏️ _Features Used Only For Private Chat!_',
+    bot: '✉️✏️ _This Feature Is Only For Bot_',
+    wait: '✉️✏️ _Processing Please Wait..._',
     linkm: '📧✏️ _Where is the link?_',
-    error: '✉️❗ ```Error!!```',
+    error: '✉️😥 ```Error!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
