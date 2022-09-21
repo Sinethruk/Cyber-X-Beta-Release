@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94712163539'] //ur owner number
-global.ownername = "*S RUKSHAN*" //ur owner name
+global.ownername = "R˟˚U˟˚K˟˚S˟˚H˟˚A˟˚N˟˚" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: Srukshan" //ur github or insta name
 global.location = "Sri Lanka, Pandulagama, Anuradhapura" //ur location
@@ -45,7 +45,7 @@ global.location = "Sri Lanka, Pandulagama, Anuradhapura" //ur location
 //BOT COSTOMIZEDTATION
 global.owner = ['94712163539']
 global.ownertag = '94712163539' //ur tag number
-global.botname = '*RUKSHAN CYBER X MD*' //ur bot name
+global.botname = 'RUKSHAN CYBER X MD' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
@@ -54,10 +54,10 @@ global.reactmoji = "😈" //ur menu react emoji
 global.themeemoji = "💔" //ur theme emoji
 global.packname = "Rukshan MD" //ur sticker watermark packname
 global.author = "Rukshan MD" //ur sticker watermark author
-global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
+global.aliveimg ="https://i.ibb.co/0VZBdMf/IMG-20220918-WA0004.jpg"
+global.allmenuimg ="https://i.ibb.co/0VZBdMf/IMG-20220918-WA0004.jpg"
+global.welcomeimg= "https://i.ibb.co/0VZBdMf/IMG-20220918-WA0004.jpg"
+global.gbyeimg = "https://i.ibb.co/0VZBdMf/IMG-20220918-WA0004.jpg"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
