@@ -37,4 +37,3 @@ https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 ```2022.08.25 - Tiktok , YT Shorts and Your Tag Error Fixed```
 
 ```2022.08.25 - AntiTag Removed```
-##NEW UPDATE
