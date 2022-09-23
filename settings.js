@@ -82,7 +82,7 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = ['HI WELCOME TO OUR GROUP 😊']
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
@@ -93,15 +93,15 @@ global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
-    private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
+    success: '✉️✅ _Done_',
+    admin: '✉️❗ _This Feature Is Only For Admin!_',
+    botAdmin: '✉️❓ _Bot Must Be Admin First!_',
+    owner: '✉️❗ _This Feature Is Only For Owner!_',
+    group: '✉️🚷 _Feature Used Only For Groups!_',
+    private: '✉️🚻 _Features Used Only For Private Chat!_',
+    bot: '✉️🚀 _This Feature Is Only For Bot_',
+    wait: '✉️🔄 _Processing Please Wait..._',
+    linkm: '📧🆗 _Where is the link?_',
     error: '✉️😥 ```Error!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
